@@ -58,6 +58,6 @@ The methodology with which the program was designed is as follows:
 6) The name of the employee and the weekly salary are displayed on the console.
 
 ## Run instructions
-To run the program once cloned from git, the following command must be executed: 
+To run the program once cloned from git, the following command must be executed in the console: 
 * dotnet run
   
