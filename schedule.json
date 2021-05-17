@@ -1,0 +1,142 @@
+[
+    {
+        "name": "MO",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 25
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 15
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 20
+            }
+        ]
+    },
+    {
+        "name": "TU",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 25
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 15
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 20
+            }
+        ]
+    },
+    {
+        "name": "WE",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 25
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 15
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 20
+            }
+        ]
+    },
+    {
+        "name": "TH",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 25
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 15
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 20
+            }
+        ]
+    },
+    {
+        "name": "FR",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 25
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 15
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 20
+            }
+        ]
+    },
+    {
+        "name": "SA",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 30
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 20
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 25
+            }
+        ]
+    },
+    {
+        "name": "SU",
+        "schedule": [
+            {
+                "begin": "00:00",
+                "end": "09:00",
+                "costHour": 30
+            },
+            {
+                "begin": "09:01",
+                "end": "18:00",
+                "costHour": 20
+            },
+            {
+                "begin": "18:01",
+                "end": "23:59",
+                "costHour": 25
+            }
+        ]
+    }
+]
